@@ -1,0 +1,15 @@
+out
+debug
+codegen
+*.local
+*.class
+Thumbs.db
+.project
+.children
+*.classpath
+.settings/*.prefs
+.settings/*.component
+.settings/*.xml
+bin/*
+.idea
+*.iml
